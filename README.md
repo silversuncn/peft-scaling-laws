@@ -88,7 +88,7 @@ numpy
 
 ## License
 
-This repository is provided for academic reproducibility purposes. Please cite the paper if you use this code or data.
+This repository is licensed under the MIT License. Please cite the paper if you use this code or data.
 
 ## Citation
 
